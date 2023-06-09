@@ -1,11 +1,5 @@
 ---
 title: Betriebliche Grundfunktion Beschaffung
-description: 
-published: true
-date: 2022-02-09T14:45:00.179Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T14:44:59.139Z
 ---
 
 # Betriebliche Grundfunktion Beschaffung

@@ -1,11 +1,5 @@
 ---
 title: Vim
-description: 
-published: true
-date: 2023-02-14T11:33:16.896Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:06:10.029Z
 ---
 
 # Vim

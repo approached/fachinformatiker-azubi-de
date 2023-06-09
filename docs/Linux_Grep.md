@@ -1,11 +1,5 @@
 ---
 title: Linux Grep
-description: 
-published: true
-date: 2022-02-16T21:11:43.867Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:11:42.798Z
 ---
 
 # Linux Grep

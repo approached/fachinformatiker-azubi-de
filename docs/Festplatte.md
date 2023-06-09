@@ -1,11 +1,5 @@
 ---
 title: Festplatte
-description: 
-published: true
-date: 2022-03-17T17:25:29.194Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-12T12:03:55.805Z
 ---
 
 # Festplatte

@@ -1,11 +1,5 @@
 ---
 title: Cronjob
-description: 
-published: true
-date: 2022-02-16T21:09:18.113Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:09:16.570Z
 ---
 
 # Cronjob
@@ -62,7 +56,7 @@ Hinter jeden Command muss ein Leerzeichen stehen!
 
 Mittels */dev/null* Struktur wird die Fehlerausgabe umgeleitet.
 
-` * `**`/dev/null`**` = Bei Fehler, dann umleiten.`  
+` * `**`/dev/null`**` = Bei Fehler, dann umleiten.`
 ` * `**`/dev/null`` ``2>&1`**` = Egal ob Fehler oder nicht, keine umleitung.`
 
 Weitere Informationen finden man hier

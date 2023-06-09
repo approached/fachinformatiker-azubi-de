@@ -1,11 +1,5 @@
 ---
 title: Programmierparadigma
-description: 
-published: true
-date: 2022-02-15T20:30:46.665Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:30:45.567Z
 ---
 
 # Programmierparadigma

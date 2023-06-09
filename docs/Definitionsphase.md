@@ -1,11 +1,5 @@
 ---
 title: Definitionsphase
-description: 
-published: true
-date: 2022-02-15T20:57:05.305Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:56:08.264Z
 ---
 
 # Definitionsphase

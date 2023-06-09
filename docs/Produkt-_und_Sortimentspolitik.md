@@ -1,11 +1,5 @@
 ---
 title: Produkt- und Sortimentspolitik
-description: 
-published: true
-date: 2022-02-15T21:18:47.616Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:18:46.541Z
 ---
 
 # Produkt- und Sortimentspolitik

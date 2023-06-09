@@ -1,11 +1,5 @@
 ---
 title: Hauptseite
-description: 
-published: true
-date: 2022-02-21T16:09:24.615Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-01T16:43:04.434Z
 ---
 
 # Fachinformatiker Azubi

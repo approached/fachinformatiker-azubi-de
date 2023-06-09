@@ -1,11 +1,5 @@
 ---
 title: Planungsphase
-description: 
-published: true
-date: 2022-02-15T21:01:43.419Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:57:44.146Z
 ---
 
 # Planungsphase
@@ -36,7 +30,7 @@ Gemischtorientiert.
 Bei einem Projektablaufplan wird eine **Zeitliche** Planung berechnet
 als auch Dokumentiert.
 
-Beispiel  
+Beispiel
 
 -   Auto aufbocken (15 Min.)
 -   Reifen abschrauben (15 Min.)

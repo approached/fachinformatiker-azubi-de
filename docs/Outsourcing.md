@@ -1,11 +1,5 @@
 ---
 title: Outsourcing
-description: 
-published: true
-date: 2022-02-15T20:26:00.079Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:25:59.012Z
 ---
 
 # Outsourcing

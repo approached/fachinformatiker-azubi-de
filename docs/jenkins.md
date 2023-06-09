@@ -1,11 +1,5 @@
 ---
 title: Jenkins
-description: 
-published: true
-date: 2022-03-16T08:48:55.665Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-16T08:36:36.585Z
 ---
 
 # Jenkins

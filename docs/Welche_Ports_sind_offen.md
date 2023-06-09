@@ -1,11 +1,5 @@
 ---
 title: Welche Ports sind offen
-description: 
-published: true
-date: 2022-02-16T21:44:40.744Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:44:39.385Z
 ---
 
 # Welche Ports sind offen
@@ -13,22 +7,22 @@ dateCreated: 2022-02-16T21:44:39.385Z
 Wenn man raus finden möchte welche Ports gerade am lauschen sind, kann
 man dies folgt heraus finden.
 
-    root@v-debian:~# netstat -an | grep LISTEN 
-    tcp        0      0 0.0.0.0:993             0.0.0.0:*               LISTEN     
-    tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:587             0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:143             0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:465             0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:25              0.0.0.0:*               LISTEN     
-    tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN     
-    tcp6       0      0 :::993                  :::*                    LISTEN     
-    tcp6       0      0 :::587                  :::*                    LISTEN     
-    tcp6       0      0 :::143                  :::*                    LISTEN     
-    tcp6       0      0 :::465                  :::*                    LISTEN     
-    tcp6       0      0 :::22                   :::*                    LISTEN     
-    tcp6       0      0 :::25                   :::*                    LISTEN  
+    root@v-debian:~# netstat -an | grep LISTEN
+    tcp        0      0 0.0.0.0:993             0.0.0.0:*               LISTEN
+    tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:587             0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:143             0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:465             0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:25              0.0.0.0:*               LISTEN
+    tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN
+    tcp6       0      0 :::993                  :::*                    LISTEN
+    tcp6       0      0 :::587                  :::*                    LISTEN
+    tcp6       0      0 :::143                  :::*                    LISTEN
+    tcp6       0      0 :::465                  :::*                    LISTEN
+    tcp6       0      0 :::22                   :::*                    LISTEN
+    tcp6       0      0 :::25                   :::*                    LISTEN
 
 tcp und tcp6 ist die splittung von IPv4 und IPv6.
 

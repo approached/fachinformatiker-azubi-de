@@ -1,11 +1,5 @@
 ---
 title: Google Befehle
-description: 
-published: true
-date: 2022-02-16T21:42:10.272Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:42:09.256Z
 ---
 
 # Google Befehle

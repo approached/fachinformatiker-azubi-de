@@ -1,11 +1,5 @@
 ---
 title: Unternehmergesellschaft - UG im Detail
-description: 
-published: true
-date: 2022-02-16T21:51:34.169Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:34:14.124Z
 ---
 
 # Unternehmergesellschaft - UG im Detail
@@ -28,17 +22,17 @@ interessiert.
 
 ### Wie teuer kostet Anmeldung der UG?
 
-Notar  
+Notar
 
 -   Musterprotokoll = 84,00 €
 -   Handelsregisteranmeldung = 42,00 €
 
-Registergericht  
+Registergericht
 
 -   Eintragung = 150,00 €
 -   Veröffentlichung = 1,00 €
 
-Macht zusammen  
+Macht zusammen
 277,00 €
 
 ### Welche Jährliche Kosten fallen einem zu?
@@ -46,7 +40,7 @@ Macht zusammen
 -   IHK = ca. 160,00 € (120€-240€ je nach Standort)
 -   Veröffentlichung des JAB im Bundesanzeiger = 39,00 €
 
-Macht zusammen  
+Macht zusammen
 199,00 €
 
 ### Welche Kosten fallen an bei einer Adressenänderung?

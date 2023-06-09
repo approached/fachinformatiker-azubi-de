@@ -1,11 +1,5 @@
 ---
 title: OpenLDAP
-description: 
-published: true
-date: 2022-02-16T21:05:03.123Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:05:02.087Z
 ---
 
 # OpenLDAP
@@ -30,7 +24,7 @@ welcher Reihenfolge die Einträge stehen! Hier einige Beispiele:
 ```
     access to dn="cn=peter,dc=example,dc=de"
             by users write
-```            
+```
 
 -   Man darf über Attribut *street* überall verändern. Aber nur User die
     Authentifiziert sind.
@@ -46,7 +40,7 @@ welcher Reihenfolge die Einträge stehen! Hier einige Beispiele:
 ```
     access to *
             by * read
-```            
+```
 
 -   Alle User die in *ou=Users* vorhanden sind, dürfen in ihrem Email
     Verzeichnis *ou=virtual,ou=Email,dc=example,dc=de*, das Attribut
@@ -57,4 +51,4 @@ welcher Reihenfolge die Einträge stehen! Hier einige Beispiele:
             filter=(objectClass=postfix)
             by dn.regex="uid=$1,ou=([^,]+),ou=Users,dc=example,dc=de" write
             by * read
-```            
+```

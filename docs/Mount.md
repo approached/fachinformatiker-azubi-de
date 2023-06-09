@@ -1,11 +1,5 @@
 ---
 title: Mount
-description: 
-published: true
-date: 2022-02-16T21:08:40.849Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:08:39.842Z
 ---
 
 # Mount

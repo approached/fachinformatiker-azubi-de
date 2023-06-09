@@ -1,11 +1,5 @@
 ---
 title: Docker
-description: 
-published: true
-date: 2022-03-16T11:09:22.668Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-16T10:45:32.653Z
 ---
 
 # Docker

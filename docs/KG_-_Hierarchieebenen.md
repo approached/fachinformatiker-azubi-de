@@ -1,11 +1,5 @@
 ---
 title: KG - Hierarchieebenen
-description: 
-published: true
-date: 2022-02-09T14:45:59.118Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T14:45:58.112Z
 ---
 
 # KG - Hierarchieebenen

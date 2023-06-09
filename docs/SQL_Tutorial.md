@@ -1,11 +1,5 @@
 ---
 title: SQL Tutorial
-description: 
-published: true
-date: 2022-02-16T21:02:38.422Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:02:36.922Z
 ---
 
 # SQL Tutorial
@@ -24,7 +18,7 @@ Syntax:
 
 Beispiel:
 
-`create database sqltutorial;`  
+`create database sqltutorial;`
 `` create database `sql-tutorial`; (Sonderzeichen bindestrich) ``
 
 ### Drop
@@ -114,8 +108,8 @@ Syntax:
 
 Beispiel:
 
-`Select * From Kunden;`  
-`Select Vorname, Nachname From Kunden;`  
+`Select * From Kunden;`
+`Select Vorname, Nachname From Kunden;`
 `Select Nachname AS Name From Kunden;`
 
 ### WHERE
@@ -141,7 +135,7 @@ Zwei Ergebnisse
 Syntax: SELECT Spaltenname, \[...\] FROM Tabellenname WHERE Spaltenname
 LIKE 'MUSTER';
 
-Muster  
+Muster
 
 -   F\_k: Zeichenketten zwischen F und k
 -   Mi%: Zeichenketten mit dem Anfang Mi

@@ -1,11 +1,5 @@
 ---
 title: Elasticsearch 1x1 Tutorial
-description: 
-published: true
-date: 2022-02-16T21:27:16.524Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:27:15.101Z
 ---
 
 # Elasticsearch 1x1 Tutorial
@@ -40,7 +34,7 @@ Lesen:
 
 Erstellen:
 
-    PUT twitter/_mapping/_doc 
+    PUT twitter/_mapping/_doc
     {
       "properties": {
         "email": {

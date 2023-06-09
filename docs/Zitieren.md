@@ -1,11 +1,5 @@
 ---
 title: Zitieren
-description: 
-published: true
-date: 2022-02-15T21:15:10.106Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:15:09.024Z
 ---
 
 # Zitieren

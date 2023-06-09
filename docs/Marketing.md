@@ -1,11 +1,5 @@
 ---
 title: Marketing
-description: 
-published: true
-date: 2022-02-15T21:18:54.178Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:17:06.171Z
 ---
 
 # Marketing

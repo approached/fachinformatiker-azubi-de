@@ -1,11 +1,5 @@
 ---
 title: Projektarbeit
-description: 
-published: true
-date: 2022-02-15T20:47:37.950Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:47:36.878Z
 ---
 
 # Projektarbeit
@@ -59,7 +53,7 @@ Ausführung als gedruckt Versendet werden.
 
 ## Nützliches
 
-Link für Projektdokumentation  
+Link für Projektdokumentation
 
 -   [Latex Projektdokumentationvorlage](https://blog.stefan-macke.com/2012/02/09/latex-vorlage-fuer-ihk-projektdokumentationen-zum-fachinformatiker-anwendungsentwicklung/)
 -   [Beschreibung einer Projektdokumentation](http://fiae.rcmd.org/)

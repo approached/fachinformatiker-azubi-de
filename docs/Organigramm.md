@@ -1,11 +1,5 @@
 ---
 title: Organigramm
-description: 
-published: true
-date: 2022-02-14T21:08:09.561Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:08:08.442Z
 ---
 
 # Organigramm
@@ -32,7 +26,7 @@ dargestellt.
 
 ## Beispiele
 
-![organigramm.png](/organigramm.png)
+![organigramm.png](./organigramm.png)
 ^Von Sprenger aus der deutschsprachigen Wikipedia, CC BY-SA 3.0^
 
 ## Quellen

@@ -1,11 +1,5 @@
 ---
 title: Cisco CCNA
-description: 
-published: true
-date: 2022-02-16T20:50:52.563Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:36:33.762Z
 ---
 
 # Cisco CCNA

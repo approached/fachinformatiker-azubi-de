@@ -1,11 +1,5 @@
 ---
 title: Rsync HowTo
-description: 
-published: true
-date: 2022-02-09T13:31:00.426Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:30:59.023Z
 ---
 
 # Rsync HowTo

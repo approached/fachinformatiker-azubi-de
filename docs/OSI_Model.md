@@ -1,18 +1,12 @@
 ---
 title: OSI Model
-description: 
-published: true
-date: 2022-02-16T20:44:26.520Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:38:44.545Z
 ---
 
 # OSI Model
 
 Ein OSI-Model ist ein Kommunikation Schichtmodell. Dies wird in der Netzwerk Struktur bis heute eingesetzt. Das **OSI Model** dient als Standard im internationalen Bereich.
 
-Dieses Model besitzt folgende Netzwerk Schichten:  
+Dieses Model besitzt folgende Netzwerk Schichten:
 
 1.  physical layer
 2.  data link layer

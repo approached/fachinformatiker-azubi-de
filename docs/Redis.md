@@ -1,11 +1,5 @@
 ---
 title: Redis
-description: 
-published: true
-date: 2022-02-16T21:25:59.076Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:25:58.050Z
 ---
 
 # Redis

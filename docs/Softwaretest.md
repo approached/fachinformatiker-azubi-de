@@ -1,11 +1,5 @@
 ---
 title: Softwaretest
-description: 
-published: true
-date: 2022-02-16T21:48:56.272Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:48:55.227Z
 ---
 
 # Softwaretest

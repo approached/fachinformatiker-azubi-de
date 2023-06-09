@@ -1,11 +1,5 @@
 ---
 title: TCP und UDP
-description: 
-published: true
-date: 2022-02-16T20:41:17.409Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:41:16.378Z
 ---
 
 # TCP und UDP

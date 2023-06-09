@@ -1,11 +1,5 @@
 ---
 title: Markt
-description: 
-published: true
-date: 2022-02-15T20:28:27.125Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:28:26.089Z
 ---
 
 # Markt

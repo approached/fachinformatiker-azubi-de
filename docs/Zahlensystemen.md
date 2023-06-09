@@ -1,11 +1,5 @@
 ---
 title: Zahlensystemen
-description: 
-published: true
-date: 2022-02-15T20:31:57.130Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:31:56.101Z
 ---
 
 # Zahlensystemen

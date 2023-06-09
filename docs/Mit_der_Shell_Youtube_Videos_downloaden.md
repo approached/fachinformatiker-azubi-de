@@ -1,11 +1,5 @@
 ---
 title: Mit der Shell Youtube Videos downloaden
-description: 
-published: true
-date: 2022-02-09T13:32:09.606Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:32:08.549Z
 ---
 
 # Mit der Shell Youtube Videos downloaden

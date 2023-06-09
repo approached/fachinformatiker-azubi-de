@@ -1,11 +1,5 @@
 ---
 title: Thin Client
-description: 
-published: true
-date: 2022-02-15T20:29:56.745Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:29:55.705Z
 ---
 
 # Thin Client

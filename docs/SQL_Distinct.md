@@ -1,11 +1,5 @@
 ---
 title: SQL Distinct
-description: 
-published: true
-date: 2022-02-14T21:03:40.278Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:03:39.219Z
 ---
 
 # SQL Distinct

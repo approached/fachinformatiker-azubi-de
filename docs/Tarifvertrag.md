@@ -1,11 +1,5 @@
 ---
 title: Tarifvertrag
-description: 
-published: true
-date: 2022-02-15T20:36:00.295Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:35:59.243Z
 ---
 
 # Tarifvertrag

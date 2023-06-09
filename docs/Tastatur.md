@@ -1,11 +1,5 @@
 ---
 title: Tastatur
-description: 
-published: true
-date: 2022-02-09T13:17:35.984Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:17:34.857Z
 ---
 
 # Tastatur

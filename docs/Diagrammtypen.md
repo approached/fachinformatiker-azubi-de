@@ -1,11 +1,5 @@
 ---
 title: Diagrammtypen
-description: 
-published: true
-date: 2022-02-14T20:55:08.962Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T20:43:24.485Z
 ---
 
 # Diagrammtypen

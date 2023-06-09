@@ -1,11 +1,5 @@
 ---
 title: Python for programmers
-description: Python tutorial für Programmierer
-published: true
-date: 2023-01-30T13:30:18.706Z
-tags: 
-editor: markdown
-dateCreated: 2023-01-27T14:52:44.277Z
 ---
 
 # Python for programmers
@@ -98,7 +92,7 @@ while i < 3:
   i += 1
 ```
 
-## Input     
+## Input
 ```python
 name = input('Bitte gib den Namen ein: ')
 print('Mein Name ist: ' + name)

@@ -1,11 +1,5 @@
 ---
 title: C-Sharp Tutorial
-description: 
-published: true
-date: 2022-02-09T13:32:49.488Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:32:47.995Z
 ---
 
 # C-Sharp Tutorial

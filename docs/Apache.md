@@ -1,11 +1,5 @@
 ---
 title: Apache
-description: 
-published: true
-date: 2022-02-09T13:15:41.207Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:15:39.715Z
 ---
 
 # Apache
@@ -39,7 +33,7 @@ localhost/Test auf und im Hintergrund wird eine PHP Datei aufgerufen,
 das diesen Aufruf verarbeitet. Heutzutage in den meisten Scripte ein
 muss.
 
-`sudo a2enmod rewrite `  
+`sudo a2enmod rewrite `
 `sudo service apache2 restart`
 
 ## Apache Boost
@@ -117,12 +111,12 @@ Quelle:
 Unter **localhost** muss man jedoch unbedingt einen Hosts Eintrag
 durchführen!
 
-`vi /etc/hosts`  
-`Letzte Zeile hinzufügen:`  
+`vi /etc/hosts`
+`Letzte Zeile hinzufügen:`
 `127.0.0`
-  
+
  ## Apache2 als IPv6 betreiben
-  
+
   pache2 beherrscht von Haus an IPv6. Das ganze funktioniert sofort nach
 der DNS Zuweisung mittels einem AAAA. Sollte es nicht funktionieren
 liegt ein Mangel in der Art der ganzen Konfigurationsstrategie vor.
@@ -135,10 +129,10 @@ Tool verwenden: <http://ipv6-test.com/validate.php>.
 Hört Apache2 auf den Port 80? Das könnt ihr mit den Befehl testen.
 
     root@h2157161:/etc/apache2# netstat -tulpn | grep :80
-    tcp6       0      0 :::80                   :::*                    LISTEN      1083/apache2    
-  
+    tcp6       0      0 :::80                   :::*                    LISTEN      1083/apache2
+
 ## AH01630: client denied by server configuration - 403 Forbidden
-  
+
   Ab der Apache Version 2.4 sind verschiedene Änderungen durchgeführt
 worden. Falls du die Meldung **403 Forbidden** und im log *AH01630:
 client denied by server configuration* stehen hast dann habe ich die

@@ -1,11 +1,5 @@
 ---
 title: Klassendiagramm
-description: 
-published: true
-date: 2022-02-14T20:53:59.960Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T20:53:58.889Z
 ---
 
 # Klassendiagramm
@@ -29,4 +23,4 @@ Klassen benötigt wird.
 
 ## Beispiel
 
-![klassendiagramm-beispiel.png](/klassendiagramm-beispiel.png)
+![klassendiagramm-beispiel.png](./klassendiagramm-beispiel.png)

@@ -1,11 +1,5 @@
 ---
 title: Abschlussphase
-description: 
-published: true
-date: 2022-02-15T21:03:24.681Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:03:23.639Z
 ---
 
 # Abschlussphase

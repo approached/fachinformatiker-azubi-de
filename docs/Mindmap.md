@@ -1,11 +1,5 @@
 ---
 title: Mindmap
-description: 
-published: true
-date: 2022-02-09T15:08:30.730Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T15:08:29.669Z
 ---
 
 # Mindmap

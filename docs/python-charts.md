@@ -1,11 +1,5 @@
 ---
 title: Python Charts
-description: 
-published: true
-date: 2023-01-30T13:31:28.287Z
-tags: 
-editor: markdown
-dateCreated: 2023-01-30T13:30:14.666Z
 ---
 
 # Python Charts
@@ -36,4 +30,4 @@ plt.show()
 ```
 
 Ausgabe:
-![pthon_chart_example.png](/pthon_chart_example.png)
+![pthon_chart_example.png](./pthon_chart_example.png)

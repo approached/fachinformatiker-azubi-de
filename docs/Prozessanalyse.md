@@ -1,11 +1,5 @@
 ---
 title: Prozessanalyse
-description: 
-published: true
-date: 2022-02-15T20:36:54.326Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:36:53.278Z
 ---
 
 # Prozessanalyse

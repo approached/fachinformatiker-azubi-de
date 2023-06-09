@@ -1,11 +1,5 @@
 ---
 title: Unterschiede zwischen IPv4 und IPv6
-description: 
-published: true
-date: 2022-02-09T13:25:11.770Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:25:10.656Z
 ---
 
 # Unterschiede zwischen IPv4 und IPv6
@@ -86,7 +80,7 @@ href="http://%5Bfda2:c496:7232:adf7:0:0:0:1">http://[fda2:c496:7232:adf7:0:0:0:1
 
 ## IPv6 Vorteile und Nachteile
 
-Vorteile  
+Vorteile
 
 -   Größerer Adressbereich
 -   Kein NAT
@@ -95,12 +89,12 @@ Vorteile
     keine Prüfsummen berechnet sowie Packetierung)
 -   IPv6 ist automatisch verschlüsselt (IPsec)
 
-Nachteile  
+Nachteile
 
 -   Unübersichtliche Adressen
 -   Mac Adresse kann global sichtbar gemacht werden, somit ist die
     Privatsphäre ist gefährdet (bei Deaktivieren von Privacy Extension)
-    
+
 ## Unterschiede im Detail
 
 **IP-Adresse**
@@ -160,22 +154,22 @@ IPv6 Adressen schreibt man in eckigen Klammern. Das Trennzeichen
 
 Die nullen müssen nicht unbedingt hingeschrieben werden.
 
-`Ohne Nullen`  
+`Ohne Nullen`
 `2001:db8:53fc:a:df70:5dc:10d`
 
-`IPv6 komplett`  
+`IPv6 komplett`
 `2001:0db8:53fc:000a:df70:05dc:010d`
 
 Leere nuller Blöcke kann man weglassen.
 
-`Gekürzte Adresse`  
+`Gekürzte Adresse`
 `2600:c::273:fd:1`
 
-`IPv6 komplett`  
+`IPv6 komplett`
 `2600:000c:0000:0000:0000:0273:00fd:0001`
 
 Das Kürzen wird mit Doppelpunkt eingeleitet und ist nur einmal erlaubt.
 Bei mehrfacher Nutzung kann die richtige IPv6 Adresse nicht abgeleitet
 werden.
 
-  [1]: http://%5Bfda2:c496:7232:adf7:0:0:0:1    
+  [1]: http://%5Bfda2:c496:7232:adf7:0:0:0:1

@@ -1,11 +1,5 @@
 ---
 title: Datenschutz
-description: 
-published: true
-date: 2022-02-16T21:37:09.220Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:37:08.020Z
 ---
 
 # Datenschutz

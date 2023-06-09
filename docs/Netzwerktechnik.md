@@ -1,11 +1,5 @@
 ---
 title: Netzwerktechnik
-description: 
-published: true
-date: 2022-02-15T20:35:36.502Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:35:35.433Z
 ---
 
 # Netzwerktechnik

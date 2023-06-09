@@ -1,11 +1,5 @@
 ---
 title: Test E-Mail versenden
-description: 
-published: true
-date: 2022-02-16T21:24:44.722Z
-tags: e-mail
-editor: markdown
-dateCreated: 2022-02-16T21:24:43.689Z
 ---
 
 # Test E-Mail versenden
@@ -17,7 +11,7 @@ versenden.
 
 Mit dem folgende Command kann man eine Testmail versenden:
 
-`apt-get install mailutils`  
+`apt-get install mailutils`
 `mail -s "Test Email" user@example.com < /dev/null`
 
 Oder *systemlog* als Anhang und Inhalttext versenden:

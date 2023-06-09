@@ -1,11 +1,5 @@
 ---
 title: Partitionieren
-description: 
-published: true
-date: 2022-09-30T07:52:46.665Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:07:37.830Z
 ---
 
 # Partitionieren / Formatieren
@@ -38,7 +32,7 @@ mmcblk0     179:0    0  59.5G  0 disk
 
 Kompletten Stick löschen:
 ```
-dd status=progress if=/dev/zero of=/dev/sdb bs=4k && sync  
+dd status=progress if=/dev/zero of=/dev/sdb bs=4k && sync
 ```
 
 Partion erstellen:

@@ -1,11 +1,5 @@
 ---
 title: PostgreSQL
-description: 
-published: true
-date: 2022-08-11T11:34:11.167Z
-tags: 
-editor: markdown
-dateCreated: 2022-08-11T11:34:05.231Z
 ---
 
 # PostgreSQL

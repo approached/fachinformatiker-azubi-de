@@ -1,11 +1,5 @@
 ---
 title: Ablauforganisation
-description: 
-published: true
-date: 2022-02-14T21:13:48.266Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:13:47.197Z
 ---
 
 # Ablauforganisation

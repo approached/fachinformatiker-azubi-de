@@ -1,11 +1,5 @@
 ---
 title: Oligopol
-description: 
-published: true
-date: 2022-02-09T14:48:43.019Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T14:48:41.964Z
 ---
 
 # Oligopol

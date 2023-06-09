@@ -1,11 +1,5 @@
 ---
 title: Dpkg
-description: 
-published: true
-date: 2022-02-16T21:10:00.914Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:09:59.589Z
 ---
 
 # Dpkg
@@ -23,7 +17,7 @@ dateCreated: 2022-02-16T21:09:59.589Z
 
 **dpkg -S /usr/bin/crontab**
 
-    akloos@artemis:~$ dpkg -S /usr/bin/crontab 
+    akloos@artemis:~$ dpkg -S /usr/bin/crontab
     cron: /usr/bin/crontab
 
 ## Listet alle Dateien des Paketes

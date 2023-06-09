@@ -1,11 +1,5 @@
 ---
 title: Aufbauorganisation
-description: 
-published: true
-date: 2022-02-14T21:13:56.087Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:12:58.649Z
 ---
 
 # Aufbauorganisation

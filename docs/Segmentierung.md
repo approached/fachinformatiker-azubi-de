@@ -1,11 +1,5 @@
 ---
 title: Segmentierung
-description: 
-published: true
-date: 2022-02-16T20:43:44.321Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:43:43.282Z
 ---
 
 # Segmentierung

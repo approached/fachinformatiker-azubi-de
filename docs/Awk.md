@@ -1,11 +1,5 @@
 ---
 title: Awk
-description: 
-published: true
-date: 2022-02-16T21:48:14.411Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:48:12.981Z
 ---
 
 # Awk
@@ -37,7 +31,7 @@ Die Ausgaben wird ein *Hallo* sein.
 -   Das darstellen von Sonderzeichen mit einem Backslash ist in Unix
     eine Standard.
 
-`cat final.csv | awk '{print "UPDATE geo_orte SET bundesland_code = " $2 " where plz = " $1 ";"}' | less`  
+`cat final.csv | awk '{print "UPDATE geo_orte SET bundesland_code = " $2 " where plz = " $1 ";"}' | less`
 `cat final.csv | awk '{print "UPDATE geo_orte SET bundesland_code = '\`*`"`` ``$2`` ``"'\`*` where plz = '\`*`"`` ``$1`` ``"'\`*`;"}' > final2.sql`
 
 `ls -l  | awk '{print "ddrescue -v " $9 " /media/Track/"$9}'`

@@ -1,11 +1,5 @@
 ---
 title: Find
-description: 
-published: true
-date: 2022-02-16T21:10:28.163Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:10:27.138Z
 ---
 
 # Find
@@ -17,7 +11,7 @@ Mittels Find kann man bequem in der Shell suchen.
 Es wird nach dem Dateien und Verzeichnisse mit dem Namen *Office*
 gesucht.
 
-`find . -name Office*`  
+`find . -name Office*`
 `find . -maxdepth 2 -iname *chrome*`
 
 ## Nach Verzeichnisse suchen

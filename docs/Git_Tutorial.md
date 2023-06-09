@@ -1,11 +1,5 @@
 ---
 title: Git Tutorial
-description: 
-published: true
-date: 2022-07-14T11:58:26.436Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:14:25.193Z
 ---
 
 # Git Tutorial
@@ -36,8 +30,8 @@ Um mehr Informationen anzuschauen
 
 Bare Repository erstellen
 
-`mkdir fachinformatiker.git`  
-`cd fachinformatiker.git`  
+`mkdir fachinformatiker.git`
+`cd fachinformatiker.git`
 `git --bare init`
 
 Projekt auschecken
@@ -72,7 +66,7 @@ Falls man einen Fehlerhaften commit erstellt hat, dann möchte man dies zurücks
 ```
 git reset --soft HEAD~1
 ```
-2. Zurücksetzen und die Änderungen gehen verloren: 
+2. Zurücksetzen und die Änderungen gehen verloren:
 
 ```
 git reset --hard HEAD~1
@@ -91,10 +85,10 @@ Wenn man mehrere Versionstände zurücksetzen möchte kann dies einfach mit:
             DocumentRoot /opt/sites/git.fachinformatiker-azubi.de
             <Directory /opt/sites/git.fachinformatiker-azubi.de>
                     Options ExecCGI +FollowSymLinks +SymLinksIfOwnerMatch
-                    AllowOverride All 
+                    AllowOverride All
                     order allow,deny
                     Allow from all
-                    AddHandler cgi-script cgi 
+                    AddHandler cgi-script cgi
                     DirectoryIndex gitweb.cgi
             </Directory>
     </VirtualHost>
@@ -103,7 +97,7 @@ Wenn man mehrere Versionstände zurücksetzen möchte kann dies einfach mit:
 
 GitLab ist optimal, sobald man Git Repositorys selbst hosten will.
 
-Empfehlungen  
+Empfehlungen
 
 -   FeatureBranch sollte man 1:1 so übernehmen JiraTicket
 

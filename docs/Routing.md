@@ -1,11 +1,5 @@
 ---
 title: Routing
-description: 
-published: true
-date: 2023-03-22T09:59:28.848Z
-tags: routing, ipv6, ipv4, netzwerktechnik
-editor: markdown
-dateCreated: 2023-03-21T07:47:08.295Z
 ---
 
 ## Definition
@@ -26,7 +20,7 @@ Dieser Prozess erfolgt auf dem Sendehost und auf Routern (Layer 3)
 
 → Routing Tabelle → nur der Weg zum nächsten Zielknoten! nicht der Komplette Weg zum Ziel
 
-→ Arten von Routen 
+→ Arten von Routen
 
 - direct Connected
 - static → händischer Eintrag
@@ -34,7 +28,7 @@ Dieser Prozess erfolgt auf dem Sendehost und auf Routern (Layer 3)
 - default → Falls der Router keinen Eintrag für das Zielnetz hat, so wird das Paket per Default an das Zielnetz weitergeleitet.
 
 ### Default Route:
-![zielnetz.drawio.png](/zielnetz.drawio.png)
+![zielnetz.drawio.png](./zielnetz.drawio.png)
 
 
 ## Prozess der Routenbestimmung
@@ -45,15 +39,15 @@ Dieser Prozess erfolgt auf dem Sendehost und auf Routern (Layer 3)
 4. Sende Paket anhand des aufgefundenen Eintrags in der Routing Tabelle an das entsprechende Interface
 
 ### Beispiel:
-![routing.drawio.png](/routing.drawio.png)
+![routing.drawio.png](./routing.drawio.png)
 
 ## Administrative Distanz (0…255)
 
 - Ganzzahliges Maß für die Güte einer Route
 - Je größer Metrik, umso schlechter die Route
 - Bsp.
-    
-    
+
+
     | Quelle | Default |
     | --- | --- |
     | connected | 0 ← “beste” Route |

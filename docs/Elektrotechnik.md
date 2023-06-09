@@ -1,11 +1,5 @@
 ---
 title: Elektrotechnik
-description: 
-published: true
-date: 2022-02-15T20:29:14.438Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:29:13.006Z
 ---
 
 # Elektrotechnik

@@ -1,11 +1,5 @@
 ---
 title: Python Autoclick
-description: 
-published: true
-date: 2023-01-29T22:17:11.553Z
-tags: 
-editor: markdown
-dateCreated: 2023-01-29T21:57:11.707Z
 ---
 
 # Python Autoclick

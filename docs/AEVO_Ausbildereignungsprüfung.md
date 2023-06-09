@@ -1,11 +1,5 @@
 ---
 title: AEVO Ausbildereignungsprüfung
-description: 
-published: true
-date: 2022-02-09T13:43:06.784Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:43:05.737Z
 ---
 
 # AEVO Ausbildereignungsprüfung
@@ -24,4 +18,3 @@ Teil 2:
 
 -   [AEVO Bewertung der Unterweisung](/AEVO_Bewertung_der_Unterweisung)
 -   [AEVO mündliche Prüfungsfragen](/AEVO_mündliche_Prüfungsfragen)
-    

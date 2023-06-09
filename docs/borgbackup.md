@@ -1,11 +1,5 @@
 ---
 title: Borgbackup
-description: 
-published: true
-date: 2022-03-17T10:16:26.427Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-16T16:20:21.044Z
 ---
 
 # Borgbackup

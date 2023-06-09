@@ -1,11 +1,5 @@
 ---
 title: Scheduling Verfahren
-description: 
-published: true
-date: 2022-02-09T13:22:38.290Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:20:12.714Z
 ---
 
 # Scheduling Verfahren
@@ -217,7 +211,7 @@ Es eignet sich für Lange Prozesse besser als für kurze.
 Beispiel
 
   [Betriebssystemes]: Was_ist_ein_Betriebssystem "wikilink"
-  
+
 ## Shortest Remaining Time
 
 Shortest Remaining Time hat die Eigenschaft Prozesse anhand der
@@ -694,4 +688,3 @@ existieren hierbei keine bevorzugte Prozesse.
 Beispiel
 
 q=3 (Zeitwert)
-  

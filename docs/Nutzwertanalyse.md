@@ -1,11 +1,5 @@
 ---
 title: Nutzwertanalyse
-description: 
-published: true
-date: 2022-02-15T20:53:31.083Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:52:28.335Z
 ---
 
 # Nutzwertanalyse
@@ -29,7 +23,7 @@ mit dem Modul XY hatte dies und jenes Problem!
 Mittels Projektcontrolling kann man feststellen, wenn etwas nicht
 planmäßiges abläuft. Dadurch steuert man und unterstützt das Projekt.
 
-Aufgaben  
+Aufgaben
 
 -   Ablauf
 -   Kosten

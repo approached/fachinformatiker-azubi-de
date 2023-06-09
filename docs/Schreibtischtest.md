@@ -1,11 +1,5 @@
 ---
 title: Schreibtischtest
-description: 
-published: true
-date: 2022-02-14T21:11:58.711Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:11:57.618Z
 ---
 
 # Schreibtischtest
@@ -30,7 +24,7 @@ muss mehr Code berechnen und ausführlich Dokumentieren.
 
 Anhand dieser Vorlage führen wir nun ein Schreibtischtest durch.
 
-![struktogramm-ean-pruefnummer-berechnen.png](/struktogramm-ean-pruefnummer-berechnen.png)
+![struktogramm-ean-pruefnummer-berechnen.png](./struktogramm-ean-pruefnummer-berechnen.png)
 
 Eingabe EAN Nummer: 123456789000\
 Ergebnis: 5

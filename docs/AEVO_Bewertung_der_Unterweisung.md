@@ -1,11 +1,5 @@
 ---
 title: AEVO Bewertung der Unterweisung
-description: 
-published: true
-date: 2022-02-09T13:38:42.121Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:38:40.967Z
 ---
 
 # AEVO Bewertung der Unterweisung

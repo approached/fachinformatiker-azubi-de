@@ -1,11 +1,5 @@
 ---
 title: RAR - UNRAR
-description: 
-published: true
-date: 2022-02-16T21:15:00.230Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:14:59.035Z
 ---
 
 # RAR - UNRAR
@@ -18,13 +12,13 @@ rar Dateien das **unrar** Paket.
 
 Die Syntax für das Packen eine rar Archiv lautet wie folgt:
 
-`rar a `<archiv>` `<file1>` [file2] usw.`  
+`rar a `<archiv>` `<file1>` [file2] usw.`
 `rar a CSS-File.rar online.css style.css print.css`
 
 Möchte man die Datein mit Passwort verschlüsseln dann gibt man folgende
 Option mit:
 
-`rar a CSS-File.rar -h online.css style.css print.css   oder`  
+`rar a CSS-File.rar -h online.css style.css print.css   oder`
 `rar a CSS-File.rar -hp online.css style.css print.css`
 
 Der Unterschied zwischen h und hp ist. Das bei hp ebenfalls der Header

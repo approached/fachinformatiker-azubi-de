@@ -1,11 +1,5 @@
 ---
 title: Ansible
-description: 
-published: true
-date: 2022-02-16T21:40:17.014Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:40:15.599Z
 ---
 
 # Ansible

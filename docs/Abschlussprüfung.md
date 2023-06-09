@@ -1,11 +1,5 @@
 ---
 title: Abschlussprüfung
-description: 
-published: true
-date: 2022-02-15T21:07:51.920Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:39:34.598Z
 ---
 
 # Abschlussprüfung
@@ -148,7 +142,7 @@ Leistung.
 
 Teil B ist bestanden wenn 50 Punkte erreicht sind und keine ungenügende
 Leistung.
-  
+
 ### Fazit
 
 Insgesamt ist die Abschlussprüfung bestanden sobald **beide** Teile der

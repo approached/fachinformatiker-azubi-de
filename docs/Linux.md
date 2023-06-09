@@ -1,11 +1,5 @@
 ---
 title: Linux
-description: 
-published: true
-date: 2023-03-27T14:06:15.754Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:07:48.540Z
 ---
 
 # Linux
@@ -33,7 +27,7 @@ Verschiedene Themen im Bereich Linux.
 
 -   Benutzer abmelden
 
-`root@mail:~# who`  
+`root@mail:~# who`
 `root     pts/0        2014-06-13 10:52 (192.168.178.55)`
 
 PTS Session abmelden

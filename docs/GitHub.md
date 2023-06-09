@@ -1,11 +1,5 @@
 ---
 title: GitHub
-description: GitHub ist ein Dienst zur Verwaltung von Softwareprojekten.
-published: true
-date: 2022-04-21T08:45:39.448Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-21T09:52:16.852Z
 ---
 
 # GitHub

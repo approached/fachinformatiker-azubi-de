@@ -1,11 +1,5 @@
 ---
 title: Kick-Off-Meeting
-description: 
-published: true
-date: 2022-02-14T21:09:47.473Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:09:46.396Z
 ---
 
 # Kick-Off-Meeting

@@ -1,11 +1,5 @@
 ---
 title: TCP-IP Model
-description: 
-published: true
-date: 2022-02-16T20:40:14.134Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:40:13.033Z
 ---
 
 # TCP-IP Model
@@ -29,7 +23,7 @@ Das [OSI Model](/OSI_Model) z.B. ist eine Implementierung von dem TCP/IP Model.
 Auch das TCP/IP Model hat ebenfalls mehrere Schichten wie das [OSI
 Model](/OSI_Model).
 
-TCP/IP Model Schichten  
+TCP/IP Model Schichten
 
 1.  [Link Layer]
 2.  [Internet Layer]

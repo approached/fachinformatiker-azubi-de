@@ -1,11 +1,5 @@
 ---
 title: Ereignisgesteuerte Prozessketten
-description: 
-published: true
-date: 2022-02-16T20:32:40.351Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:32:39.255Z
 ---
 
 # Ereignisgesteuerte Prozessketten
@@ -32,11 +26,11 @@ sofort die Probleme sowie die Anforderungen, die man lösen muss.
 
 ## Beispiel
 
-![wareneingang.png](/wareneingang.png)
+![wareneingang.png](./wareneingang.png)
 
 ## Symbole
 
-![epk_beschreibung.png](/epk_beschreibung.png)
+![epk_beschreibung.png](./epk_beschreibung.png)
 
 ## Notes
 

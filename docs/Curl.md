@@ -1,11 +1,5 @@
 ---
 title: Curl
-description: 
-published: true
-date: 2022-02-16T21:46:16.276Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:46:15.224Z
 ---
 
 # Curl

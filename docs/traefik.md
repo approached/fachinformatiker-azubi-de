@@ -1,11 +1,5 @@
 ---
 title: Traefik
-description: 
-published: true
-date: 2022-03-16T08:05:39.450Z
-tags: 
-editor: markdown
-dateCreated: 2022-03-16T07:52:43.160Z
 ---
 
 # Traefik
@@ -14,7 +8,7 @@ Traefik ist ein Proxy mit vielen Features. Das Tool setzt man vorallem ein wenn 
 
 ## Installieren
 
-Der Einfachste start mit Traefik ist es eine `docker-compose.yml` Datei zu erstellen. Wenn man die Docker Compose Datei startet lässt sich das Webinterface aufrufen via `traefik.example.com`. Im nächsten Schritt kann man nun Services (z.B. Webserver) anbinden. 
+Der Einfachste start mit Traefik ist es eine `docker-compose.yml` Datei zu erstellen. Wenn man die Docker Compose Datei startet lässt sich das Webinterface aufrufen via `traefik.example.com`. Im nächsten Schritt kann man nun Services (z.B. Webserver) anbinden.
 
 ```yml
 ---

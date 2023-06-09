@@ -1,11 +1,5 @@
 ---
 title: Nginx
-description: 
-published: true
-date: 2022-02-09T13:12:35.485Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:12:33.852Z
 ---
 
 # Nginx
@@ -56,9 +50,9 @@ Default Settings in /etc/nginx/global/php.conf
   [Nginx ssl aktivieren]: Nginx_ssl_aktivieren "wikilink"
   [Nginx gzip aktivieren]: Nginx_gzip_aktivieren "wikilink"
   [Nginx cache aktivieren]: Nginx_cache_aktivieren "wikilink"
-  
+
   ## Nginx ssl aktivieren
-  
+
   Damit die richtigen Protokolle aktiviert sind wird empfohle folgende
 Einstellung vorzunehmen:
 
@@ -71,7 +65,7 @@ Einstellung vorzunehmen:
 
         ssl_session_cache shared:SSL:10m;
         ssl_session_timeout 10m;
-        
+
 ## Nginx gzip aktivieren
 
 Das komprimierung **gzip** von [Nginx] aktivieren ist recht easy:
@@ -82,13 +76,13 @@ Datei editieren:
 
 Einfügen/ändern:
 
-`       gzip on; `  
-`       gzip_disable "msie6";`  
-`   `  
-`       gzip_comp_level 6;`  
-`       gzip_min_length  1100;`  
-`       gzip_buffers 16 8k; `  
-`       gzip_proxied any;`  
+`       gzip on; `
+`       gzip_disable "msie6";`
+`   `
+`       gzip_comp_level 6;`
+`       gzip_min_length  1100;`
+`       gzip_buffers 16 8k; `
+`       gzip_proxied any;`
 `       gzip_types       text/plain application/xml text/css text/js text/xml application/x-javascript text/javascript application/javascript application/json    application/xml+rss;`
 
   [Nginx]: Nginx "wikilink"
@@ -101,14 +95,14 @@ Diese Passagen einfügen unter der Site Configuration:
 
     # Javascript and CSS
     location ~* \.(?:css|js)$ {
-      expires 2y; 
+      expires 2y;
       access_log off;
       add_header Cache-Control "public";
     }
 
     # Media
     location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|svgz|mp4|ogg|ogv|webm|htc)$ {
-      expires 1M; 
+      expires 1M;
       access_log off;
       add_header Cache-Control "public";
     }

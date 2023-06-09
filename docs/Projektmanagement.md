@@ -1,11 +1,5 @@
 ---
 title: Projektmanagement
-description: 
-published: true
-date: 2022-02-15T21:03:43.309Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:53:29.390Z
 ---
 
 # Projektmanagement

@@ -1,11 +1,5 @@
 ---
 title: TypeScript
-description: Die Erweiterung für Javascrpt
-published: true
-date: 2022-03-21T21:20:09.849Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-21T21:23:07.840Z
 ---
 
 # TypeScript
@@ -35,7 +29,7 @@ Build befehle anlegen in `package.json`:
     "start": "node build/index.js"
   }
   ...
-}  
+}
 ```
 
 ## Tutorial

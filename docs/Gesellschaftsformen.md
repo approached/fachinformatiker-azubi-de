@@ -1,11 +1,5 @@
 ---
 title: Gesellschaftsformen
-description: 
-published: true
-date: 2022-02-15T20:33:11.444Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:33:10.387Z
 ---
 
 # Gesellschaftsformen

@@ -1,11 +1,5 @@
 ---
 title: SQL Statements
-description: 
-published: true
-date: 2022-02-14T21:02:59.718Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:02:58.152Z
 ---
 
 # SQL Statements
@@ -93,7 +87,7 @@ oder
 bekommen. Dies Ausgabe würde ungefähr so aussehen.
 
                         Liste der Relationen
-     Schema |            Name            |   Typ   | Eigentümer 
+     Schema |            Name            |   Typ   | Eigentümer
     --------+----------------------------+---------+------------
      public | _syncinfo                  | Tabelle | postgres
      public | _systemmapping             | Tabelle | postgres
@@ -113,14 +107,14 @@ Wandelt die Zeichen in groß oder klein um.
 
     UPPER('Upper')  LOWER('Lower')
     --------------  --------------
-    UPPER           lower 
+    UPPER           lower
 
 ## Typumwandlung
 
 plz::integer
 
-    UPDATE geo_orte 
-    SET bundesland_code = 'DE-SN' 
+    UPDATE geo_orte
+    SET bundesland_code = 'DE-SN'
     WHERE plz::integer BETWEEN 01001 AND 01936;
 
 ## Zwischen
@@ -128,14 +122,14 @@ plz::integer
 Werte müssen natürlich Integer Werte sein. Text werte sind dafür nicht
 geeignet.
 
-    UPDATE geo_orte 
-    SET bundesland_code = 'DE-SN' 
+    UPDATE geo_orte
+    SET bundesland_code = 'DE-SN'
     WHERE plz::integer BETWEEN 01001 AND 01936;
 
     oder
 
     plz >= 1001 and plz <= 1936
-    
+
 ## Explain
 
 Falls man ein SQL Befehl hat und nicht genau weiß was er anstellt so
@@ -152,4 +146,4 @@ Die Konsole kann mit dem Linux-Kommando clear bereinigt werden. Dafuer
 muss mit in Postgresql der externe Befehl mit einem Ausrufezeichen (wie
 im vi) eingeleitet werden.
 
-`\! clear`    
+`\! clear`

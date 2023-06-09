@@ -1,11 +1,5 @@
 ---
 title: Was ist ein Betriebssystem
-description: 
-published: true
-date: 2022-02-09T13:07:29.664Z
-tags: betriebssystem
-editor: markdown
-dateCreated: 2022-02-01T16:45:46.505Z
 ---
 
 # Was ist ein Betriebssystem
@@ -17,7 +11,7 @@ Das ganze geschieht durch eine *Systemschnittstelle*. Ein Programm gibt
 einen Befehl an und das Betriebssystem erhält es. Das Betriebssystem
 steuert wiederum die Hardware.
 
-Die bekanntesten Betriebssystem  
+Die bekanntesten Betriebssystem
 
 -   Windows
 -   Linux

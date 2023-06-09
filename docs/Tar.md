@@ -1,11 +1,5 @@
 ---
 title: Tar
-description: 
-published: true
-date: 2022-06-20T12:01:38.686Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T21:07:11.206Z
 ---
 
 # Tar
@@ -29,7 +23,7 @@ tar -xvfz file.tar.gz <Dateien-die-man-Entpacken-möchte>
 ```shell
 tar -cvfz file.tar.gz <Dateien-die-man-Packen-möchte>
 ```
-  
+
 -   C steht für create (erstellen)
 -   v steht für Verbose (Ausführungsmodus)
 -   f steht für Filesystem (Dateiensystem)
@@ -38,8 +32,8 @@ tar -cvfz file.tar.gz <Dateien-die-man-Packen-möchte>
 ## Dateien einzeigen
 
 ```shell
-tar tfv file.tgz 
-  
+tar tfv file.tgz
+
 Mit Suche:
 tar tfv file.tgz 'home/andreas/documents'
 ```
@@ -49,9 +43,9 @@ tar tfv file.tgz 'home/andreas/documents'
 -   v steht für Verbose (Ausführungsmodus)
 
 Bei der Nutzung im Verbose Modus muss kein Trennzeichen angegeben werden. Außerdem erhält man im Verbose Modus die Anzeige der Rechte.
-  
-  
-Man kann 
+
+
+Man kann
 
 ## bz - bzip2
 

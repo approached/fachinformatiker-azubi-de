@@ -1,11 +1,5 @@
 ---
 title: Handlungsvollmachten
-description: 
-published: true
-date: 2022-02-15T20:34:51.031Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:34:49.982Z
 ---
 
 # Handlungsvollmachten

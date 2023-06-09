@@ -1,11 +1,5 @@
 ---
 title: Management by Delegation
-description: 
-published: true
-date: 2022-02-15T20:34:24.973Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:34:23.913Z
 ---
 
 # Management by Delegation

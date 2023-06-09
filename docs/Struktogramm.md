@@ -1,11 +1,5 @@
 ---
 title: Struktogramm
-description: 
-published: true
-date: 2022-02-14T20:50:31.505Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T20:42:45.674Z
 ---
 
 # Struktogramm
@@ -49,7 +43,7 @@ Hinweise
 Im folgendem Beispiel wird gezeigt wie sich eine Prüfnummer des
 EAN-Codes berechnet wird.
 
-![struktogramm-ean-pruefnummer-berechnen.png](/struktogramm-ean-pruefnummer-berechnen.png)
+![struktogramm-ean-pruefnummer-berechnen.png](./struktogramm-ean-pruefnummer-berechnen.png)
 
 Sicherlich gibt es bessere Algorithmen, dies zu Berechnen. Dieses Bild
 dient als Beispiel eines Struktogramm.

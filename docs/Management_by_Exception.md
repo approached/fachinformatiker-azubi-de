@@ -1,11 +1,5 @@
 ---
 title: Management by Exception
-description: 
-published: true
-date: 2022-02-15T20:36:31.394Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T20:36:30.331Z
 ---
 
 # Management by Exception

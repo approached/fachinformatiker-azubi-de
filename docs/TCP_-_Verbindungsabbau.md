@@ -1,11 +1,5 @@
 ---
 title: TCP - Verbindungsabbau
-description: 
-published: true
-date: 2022-02-16T20:46:49.350Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:46:48.326Z
 ---
 
 # TCP - Verbindungsabbau

@@ -1,11 +1,5 @@
 ---
 title: Datenbank
-description: 
-published: true
-date: 2022-06-09T07:22:45.298Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T21:01:39.059Z
 ---
 
 # Datenbank
@@ -192,9 +186,9 @@ Auflistung jede Datenbankgröße:
 
 Auflistung jede Tabellengröße der DB CHANGEME:
 
-    SELECT table_name AS "Tables", 
-    round(((data_length + index_length) / 1024 / 1024), 2) "Size in MB" 
-    FROM information_schema.TABLES 
+    SELECT table_name AS "Tables",
+    round(((data_length + index_length) / 1024 / 1024), 2) "Size in MB"
+    FROM information_schema.TABLES
     WHERE table_schema = "CHANGEME"
     ORDER BY (data_length + index_length) DESC;
 
@@ -233,7 +227,7 @@ gunzip < backup.sql.gz | docker exec -i CONTAINER /usr/bin/mysql -u root -pPASSW
 bunzip2 < backup.sql.bz2 | docker exec -i CONTAINER /usr/bin/mysql -u root -pPASSWORD DATABASE
 ```
 
-### Postgres 
+### Postgres
 
 **Backup**
 ```shell

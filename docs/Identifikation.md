@@ -1,11 +1,5 @@
 ---
-title: Identifikation
-description: UUID / CUID / GUID
-published: true
-date: 2022-02-23T15:45:50.092Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-23T15:45:46.780Z
+title: Identifikation UUID / CUID / GUID
 ---
 
 # Identifikation

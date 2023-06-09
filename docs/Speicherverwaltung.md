@@ -1,11 +1,5 @@
 ---
 title: Speicherverwaltung
-description: 
-published: true
-date: 2022-02-09T13:07:06.084Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-01T16:56:53.386Z
 ---
 
 # Speicherverwaltung
@@ -28,13 +22,13 @@ Bei der Virtuellen Speicherverwaltung wird der Speicherbedarf virtuell
 entkoppelt. Das bedeutet das der Adressraum über den realen Speicher
 hinaus reicht.
 
-Einlagerungstrategien  
+Einlagerungstrategien
 
 -   demand paging (Seiten werden bei Seitenfehler gespeichert)
 -   pre-paging (bevorstehen Seiten die in der Zukunft benötigt werden,
     werden gespeichert)
 
-Auslagerungstrategien  
+Auslagerungstrategien
 
 -   FiFo (First in first out)
 -   Random (Zufall)

@@ -1,11 +1,5 @@
 ---
 title: Marktuntersuchung
-description: 
-published: true
-date: 2022-02-15T21:18:13.910Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:18:12.903Z
 ---
 
 # Marktuntersuchung

@@ -1,11 +1,5 @@
 ---
 title: Preis- und Konditionenpolitik
-description: 
-published: true
-date: 2022-02-09T14:49:19.068Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T14:49:18.007Z
 ---
 
 # Preis- und Konditionenpolitik

@@ -1,11 +1,5 @@
 ---
 title: Barcode
-description: 
-published: true
-date: 2022-02-14T20:25:11.258Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T20:25:09.999Z
 ---
 
 # Barcode

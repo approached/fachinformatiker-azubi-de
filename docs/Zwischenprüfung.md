@@ -1,11 +1,5 @@
 ---
 title: Zwischenprüfung
-description: 
-published: true
-date: 2023-03-01T14:36:38.175Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T14:42:25.437Z
 ---
 
 # Zwischenprüfung

@@ -1,11 +1,5 @@
 ---
 title: Betriebsrat
-description: 
-published: true
-date: 2022-02-09T13:27:46.223Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:25:45.531Z
 ---
 
 # Betriebsrat
@@ -67,7 +61,7 @@ sechs Monate im Betrieb angehören.
 Die Wahl wird in der Regel von drei Wahlberechtigen Mitarbeiter
 organisiert. Bei größeren Betrieben mehr.
 
-Wahlverfahren  
+Wahlverfahren
 
 1.  geheime Wahl (schriftlich)
 2.  unmittelbare Wahl (Man kann nur eine Wahl treffen und nicht seine

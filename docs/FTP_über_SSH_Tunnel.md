@@ -1,11 +1,5 @@
 ---
 title: FTP über SSH Tunnel
-description: 
-published: true
-date: 2022-02-09T13:30:14.058Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:30:13.003Z
 ---
 
 # FTP über SSH Tunnel

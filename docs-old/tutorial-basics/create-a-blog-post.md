@@ -23,7 +23,7 @@ authors:
     title: Docusaurus maintainer
     url: https://sebastienlorber.com
     image_url: https://github.com/slorber.png
-tags: [greetings]
+[greetings]
 ---
 
 Congratulations, you have made your first post!

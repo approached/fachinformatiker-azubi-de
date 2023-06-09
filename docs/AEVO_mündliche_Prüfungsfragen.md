@@ -1,11 +1,5 @@
 ---
 title: AEVO mündliche Prüfungsfragen
-description: 
-published: true
-date: 2022-02-09T13:42:55.147Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:42:53.894Z
 ---
 
 # AEVO mündliche Prüfungsfragen
@@ -176,7 +170,7 @@ Kooperationsfähig, Kofliktlösungsfähig
     Kompetenzbereiche
 -   Wie kann man Kompetenzen bei einem Auszubildenden ausbauen? -
     Lehrgespräche, Projektarbeit, je nach Kompetenz
-    
+
 ## Motivation
 
 -   Welche Motivationsarten gibt es? - Intrinsisch (Selbst=Interesse),
@@ -237,7 +231,7 @@ Kooperationsfähig, Kofliktlösungsfähig
     (Vergleich mit sich selbst)
 -   Feedback - Konkret, Zeitnah, Ich Form, Wertschätzend, Werturteile
     unterlassen
-    
+
 ## Diverse
 
 -   Wie sollte die Kommuniktation zwischen ihnen und den Auszubildenen
@@ -276,4 +270,4 @@ Kooperationsfähig, Kofliktlösungsfähig
 
 -   [Lernvideo]
 
-  [Lernvideo]: https://www.youtube.com/watch?v=2KdaB8ha7vw    
+  [Lernvideo]: https://www.youtube.com/watch?v=2KdaB8ha7vw

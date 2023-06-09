@@ -1,11 +1,5 @@
 ---
 title: StruktEd_Struktogramm
-description: 
-published: true
-date: 2022-02-14T20:49:43.117Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-14T20:49:20.572Z
 ---
 
 # StruktEd_Struktogramm

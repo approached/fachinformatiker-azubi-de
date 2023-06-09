@@ -1,11 +1,5 @@
 ---
 title: Prozessmodel mit fünf Zuständen
-description: 
-published: true
-date: 2022-02-09T13:23:34.705Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-09T13:23:33.588Z
 ---
 
 # Prozessmodel mit fünf Zuständen

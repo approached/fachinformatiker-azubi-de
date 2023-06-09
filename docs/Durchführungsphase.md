@@ -1,11 +1,5 @@
 ---
 title: Durchführungsphase
-description: 
-published: true
-date: 2022-02-15T21:02:41.629Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-15T21:02:40.543Z
 ---
 
 # Durchführungsphase
@@ -29,7 +23,7 @@ mit dem Modul XY hatte dies und jenes Problem!
 Mittels Projektcontrolling kann man feststellen, wenn etwas nicht
 planmäßiges abläuft. Dadurch steuert man und unterstützt das Projekt.
 
-Aufgaben  
+Aufgaben
 
 -   Ablauf
 -   Kosten

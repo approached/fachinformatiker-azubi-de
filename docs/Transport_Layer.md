@@ -1,11 +1,5 @@
 ---
 title: Transport Layer
-description: 
-published: true
-date: 2022-02-16T20:43:51.460Z
-tags: 
-editor: markdown
-dateCreated: 2022-02-16T20:43:50.408Z
 ---
 
 # Transport Layer
