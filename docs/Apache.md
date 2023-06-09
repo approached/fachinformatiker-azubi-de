@@ -65,7 +65,7 @@ paar Sachen erledigen.
 
 Zuerst fügen wir unseren Benutzer zu der *www-data Gruppe* hinzu.
 
-`sudo usermod -a -G www-data `<benutzer>
+`sudo usermod -a -G www-data <benutzer>`
 
 Nun wechseln wir in der Shell Sitzung zu der Gruppe. Jede Datei die wir
 erstellen wird zur Gruppe von www-data.
@@ -82,14 +82,14 @@ Zum schluss die Richtige Berechtigung
 
 Auf Wunsch kann man bevorzugte Gruppe einstellen
 
-`sudo usermod -g www-data `<benutzer>
+`sudo usermod -g www-data <benutzer>`
 
 ### Subdomains hinzufügen unter localhost
 
 Sobald local auf seinem Rechner entwickelt. Möchte man mit Subdomains
 arbeiten. Das hat den Vorteile das man nicht mit den Pfaden unterpfaden
-Arbeiten muss. Statt http://example.de/**zend**/<Anwendung> kann man nun
-http://**zend**.example.de/<Anwendung>
+Arbeiten muss. Statt http://example.de/**zend**/ kann man nun
+http://**zend**.example.de/
 
 Virtualhost anlegen:
 

@@ -12,7 +12,7 @@ rar Dateien das **unrar** Paket.
 
 Die Syntax für das Packen eine rar Archiv lautet wie folgt:
 
-`rar a `<archiv>` `<file1>` [file2] usw.`
+`rar a <archiv> <file1> [file2] usw.`
 `rar a CSS-File.rar online.css style.css print.css`
 
 Möchte man die Datein mit Passwort verschlüsseln dann gibt man folgende

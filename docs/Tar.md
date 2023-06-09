@@ -51,10 +51,10 @@ Man kann
 
 bz2 ist vergleichbar mit gz (gunzip).
 
--   Packen: **bzip2 <Dateiname>**
--   Entpacken: **bunzip2 <Dateiname>.bz2**
+-   Packen: `bzip2 <Dateiname>`
+-   Entpacken: `bunzip2 <Dateiname>.bz2`
 
 In Verbindung von tar:
 
--   Packen: **tar cfvj <Dateiname>**
--   Entpacken: **tar xfvj <Dateiname>.bz2**
+-   Packen: `tar cfvj <Dateiname>`
+-   Entpacken: `tar xfvj <Dateiname>.bz2`

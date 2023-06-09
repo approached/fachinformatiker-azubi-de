@@ -89,6 +89,21 @@ const config = {
       },
       footer: {
         style: 'dark',
+        links: [
+          {
+            title: 'Kontakt',
+            items: [
+              {
+                label: 'Datenschutz',
+                to: '/datenschutz',
+              },
+              {
+                label: 'Impressum',
+                to: '/impressum',
+              },
+            ],
+          },
+        ],
         // links: [
         //   {
         //     title: 'Docs',

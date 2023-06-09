@@ -56,4 +56,4 @@ Sachverhalten, Texten, Gesprächsstrategien, ...
 
 ## Beispiel
 
-![mindmap_beispiel.jpg](/mindmap_beispiel.jpg)
+![mindmap_beispiel.jpg](./mindmap_beispiel.jpg)
