@@ -24,13 +24,13 @@ Die Zwischenprüfung ist für den Ausbildungberuf *Fachinformatiker Anwendungsen
 -   [Mindmap](/Mindmap)
 -   [Barcode](/Barcode)
 -   [Flussdiagramm](/Flussdiagramm)
--   [Quick Response Code](/Quick_Response_Code)
--   [UEFI Secure Boot](/UEFI_Secure_Boot)
+-   Quick Response Code
+-   UEFI Secure Boot
 -   [Struktogramm](/Struktogramm)
--   [Strukturierte Programmierung](/Strukturierte_Programmierung)
+-   Strukturierte Programmierung
 -   [Datenbank](/Datenbank)
 -   Drop-Down-Felder
--   [Qualitätsmerkmale Software](/Qualitätsmerkmale_Software)
+-   [Qualitätsmerkmale Software](/qualitaetsmerkmale-software)
 -   Bottom-Up-Methode
 -   [Organigramm](/Organigramm)
 -   [Arbeitssicherheit](/Arbeitssicherheit)

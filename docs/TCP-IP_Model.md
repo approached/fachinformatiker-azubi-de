@@ -25,12 +25,7 @@ Model](/OSI_Model).
 
 TCP/IP Model Schichten
 
-1.  [Link Layer]
-2.  [Internet Layer]
+1.  Link Layer
+2.  Internet Layer
 3.  [Transport Layer]
 4.  [Application Layer]
-
-  [Link Layer]: Link_Layer "wikilink"
-  [Internet Layer]: Internet_Layer "wikilink"
-  [Transport Layer]: Transport_Layer "wikilink"
-  [Application Layer]: Application_Layer "wikilink"

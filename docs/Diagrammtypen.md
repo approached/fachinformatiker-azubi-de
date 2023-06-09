@@ -9,7 +9,7 @@ besten Vorteil bringt, sehen Sie hier.
 
 -   [Struktogramm](/Struktogramm)
 -   [Klassendiagramm](/Klassendiagramm)
--   [Aktivitätsdiagramm](/Aktivitätsdiagramm)
+-   Aktivitätsdiagramm
 
 **GANTT-Diagramm**
 

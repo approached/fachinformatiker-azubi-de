@@ -55,7 +55,7 @@ Für eine Projekt steht ein bestimmtes Budget zur Verfügung. Dieses
 Budget sollte nicht überschritten werden. Es werden unter anderem
 folgenden Ziele verfolgt:
 
-1.  Ermittlung der Kosten([Kostenarten](/Kostenarten), [Kostenträger](/Kostenträger),
+1.  Ermittlung der Kosten([Kostenarten](/Kostenarten), Kostenträger,
     [Kostenstellen](/Kostenstellen))
 2.  Angebotskalkulation bei externen Projekte/Dienstleiter
 3.  Projektcontrolling (Kontrolle der Kosten)

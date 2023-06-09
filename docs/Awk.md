@@ -12,7 +12,7 @@ title: Awk
 -   Es dient zur Ausgabe von bestimmt Daten anhand einer Textdatei
 -   Ebenso eigenen sich gut auch .csv Datein
 -   Es wird fast ausschließlich mit Strings gearbeitet
--   Es wäre nicht verkehrt das Know-How zu haben von [regulären Ausdrücken](/regulären_Ausdrücke)
+-   Es wäre nicht verkehrt das Know-How zu haben von regulären Ausdrücken.
 
 ## Bespiele
 

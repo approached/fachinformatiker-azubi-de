@@ -93,10 +93,10 @@ const config = {
           {
             title: 'Kontakt',
             items: [
-              {
-                label: 'Datenschutz',
-                to: '/datenschutz',
-              },
+              // {
+              //   label: 'Datenschutz',
+              //   to: '/datenschutz',
+              // },
               {
                 label: 'Impressum',
                 to: '/impressum',

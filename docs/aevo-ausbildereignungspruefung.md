@@ -17,4 +17,4 @@ Teil 1:
 Teil 2:
 
 -   [AEVO Bewertung der Unterweisung](/AEVO_Bewertung_der_Unterweisung)
--   [AEVO mündliche Prüfungsfragen](/AEVO_mündliche_Prüfungsfragen)
+-   [AEVO mündliche Prüfungsfragen](/aevo-muendliche_pruefungsfragen)

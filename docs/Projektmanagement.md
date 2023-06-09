@@ -47,7 +47,7 @@ Ein Projekt durchläuft folgende *Projektphasen* durch:
 
 1.  [Definitionsphase](/Definitionsphase) (Projektvorbereitung)
 2.  [Planungsphase](/Planungsphase) (Projektplan)
-3.  [Durchführungsphase](/Durchführungsphase) (Umsetzung anhand es Projektplan)
+3.  [Durchführungsphase](/durchfuehrungsphase) (Umsetzung anhand es Projektplan)
 4.  [Abschlussphase](/Abschlussphase) (Projektabwicklung)
 
 ## Management

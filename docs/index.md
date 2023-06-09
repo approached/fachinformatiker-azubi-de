@@ -25,7 +25,7 @@ Hardware
 
 -   [Tastatur](/Tastatur)
 -   [Scheduling Verfahren](/Scheduling_Verfahren)
--   [Prozessmodel mit fünf Zuständen](/Prozessmodel_mit_fünf_Zuständen)
+-   [Prozessmodel mit fünf Zuständen](/prozessmodel-fuenf-zustaenden)
 
 Netzwerk
 
@@ -37,7 +37,7 @@ Wirtschafts- und Sozialkunde
 
 Linux
 
--   [FTP über SSH Tunnel](/FTP_über_SSH_Tunnel)
+-   [FTP über SSH Tunnel](/ftp-ssh-tunnel)
 -   [Rsync HowTo](/Rsync_HowTo)
 -   [Mit der Shell Youtube Videos downloaden](/Mit_der_Shell_Youtube_Videos_downloaden)
 
@@ -48,7 +48,7 @@ Programmierung
 Selbstständigkeit
 
 -   [Unternehmergesellschaft - UG im Detail](/Unternehmergesellschaft_-_UG_im_Detail)
--   [AEVO Ausbildereignungsprüfung](/AEVO_Ausbildereignungsprüfung)
+-   [AEVO Ausbildereignungsprüfung](/aevo-ausbildereignungspruefung)
 
 Feel free to contact me.
 

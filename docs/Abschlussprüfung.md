@@ -31,7 +31,7 @@ Die Schriftliche Prüfung besteht aus drei teilen!
 ### Ganzheitliche Aufgabe I
 
 * UML
-	- [Aktivitätsdiagramm](/Aktivitätsdiagramm)
+	- [Aktivitätsdiagramm](/aktivitaetsdiagramm)
 	- [Anwendungsfalldiagramm]
 	- [Klassendiagramm](/Klassendiagramm)
 	- Zustandsdiagramm
@@ -45,7 +45,7 @@ Die Schriftliche Prüfung besteht aus drei teilen!
 ### Ganzheitliche Aufgabe II
 
 -   [Nutzwertanalyse](/Nutzwertanalyse)
--   [Qualtitätsicherung](/Durchführungsphase#qualitätssicherung)
+-   [Qualtitätsicherung](/durchfuehrungsphase#qualitätssicherung)
 -   [Raid](https://de.wikipedia.org/wiki/RAID) (Informationen anschauen über Raid 0, 1, 4, 5, 6, 10, JBOD,
     Paritätfestplatte)
 -   [Projektmanagement](/Projektmanagement)

@@ -21,7 +21,7 @@ Eine kleine Übersicht über die Themen die in den Kapitel dran kommen.
     -   Netzwerk Architektur
 -   Chapter 2 - Kommunikation über das Netzwerk
     -   [Segmentierung](/Segmentierung)
-    -   [Multiplexing](/Multiplexing)
+    -   Multiplexing
     -   LAN, WAN und Internetwork
     -   [OSI Model](/OSI_Model)
     -   [TCP-IP Model](/TCP-IP_Model)
