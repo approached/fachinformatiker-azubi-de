@@ -1,5 +1,6 @@
 ---
 title: Hauptseite
+sidebar_position: 0
 ---
 
 # Fachinformatiker Azubi
@@ -13,42 +14,42 @@ Ein Fachinformatiker kann nicht alles Wissen! Durch das Erweitern bzw. Aktualisi
 
 Allgemein über IT
 
--   [Was ist ein Betriebssystem](/Was_ist_ein_Betriebssystem)
--   [Speicherverwaltung](/Speicherverwaltung)
+-   [Was ist ein Betriebssystem](./Programmierung/Betriebssystem.md)
+-   [Speicherverwaltung](./Programmierung/Speicherverwaltung)
 
 
 Webserver
--   [Nginx](/Nginx)
--   [Apache](/Apache)
+-   [Nginx](./Linux/Nginx)
+-   [Apache](./Linux/Apache)
 
 Hardware
 
--   [Tastatur](/Tastatur)
--   [Scheduling Verfahren](/Scheduling_Verfahren)
--   [Prozessmodel mit fünf Zuständen](/prozessmodel-fuenf-zustaenden)
+-   [Tastatur](./Hardware/Tastatur)
+-   [Scheduling Verfahren](./Programmierung/Scheduling-Verfahren.md)
+-   [Prozessmodel mit fünf Zuständen](./BWL/prozessmodel-fuenf-zustaenden)
 
 Netzwerk
 
--   [Unterschiede zwischen IPv4 und IPv6](/Unterschiede_zwischen_IPv4_und_IPv6)
+-   [Unterschiede zwischen IPv4 und IPv6](./Netzwerk/Unterschiede_zwischen_IPv4_und_IPv6)
 
 Wirtschafts- und Sozialkunde
 
--   [Betriebsrat](/Betriebsrat)
+-   [Betriebsrat](./BWL/Betriebsrat)
 
 Linux
 
--   [FTP über SSH Tunnel](/ftp-ssh-tunnel)
--   [Rsync HowTo](/Rsync_HowTo)
--   [Mit der Shell Youtube Videos downloaden](/Mit_der_Shell_Youtube_Videos_downloaden)
+-   [FTP über SSH Tunnel](./Linux/ftp-ssh-tunnel)
+-   [Rsync HowTo](./Linux/Rsync_HowTo)
+-   [Mit der Shell Youtube Videos downloaden](./Linux/Mit_der_Shell_Youtube_Videos_downloaden)
 
 Programmierung
 
--   [C-Sharp Tutorial](/C-Sharp_Tutorial)
+-   [C-Sharp Tutorial](./Programmierung/C-Sharp-Tutorial)
 
 Selbstständigkeit
 
--   [Unternehmergesellschaft - UG im Detail](/Unternehmergesellschaft_-_UG_im_Detail)
--   [AEVO Ausbildereignungsprüfung](/aevo-ausbildereignungspruefung)
+-   [Unternehmergesellschaft - UG im Detail](./BWL/Unternehmergesellschaft_-_UG_im_Detail)
+-   [AEVO Ausbildereignungsprüfung](./AEVO/Ausbildereignungspr%C3%BCfung)
 
 Feel free to contact me.
 
