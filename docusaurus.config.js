@@ -91,12 +91,25 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'Allgemein',
+            items: [
+              {
+                label: 'Startseite',
+                to: '/',
+              },
+              {
+                label: 'GitHub',
+                to: 'https://github.com/approached/site-fachinformatiker-azubi',
+              },
+            ],
+          },
+          {
             title: 'Kontakt',
             items: [
-              // {
-              //   label: 'Datenschutz',
-              //   to: '/datenschutz',
-              // },
+              {
+                label: 'Datenschutz',
+                to: '/datenschutz',
+              },
               {
                 label: 'Impressum',
                 to: '/impressum',

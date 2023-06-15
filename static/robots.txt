@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /datenschutz
+Noindex: /datenschutz
+Nofollow: /datenschutz
+Disallow: /impressum
+Noindex: /impressum
+Nofollow: /impressum
