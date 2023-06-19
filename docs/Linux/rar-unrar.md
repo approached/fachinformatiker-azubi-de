@@ -40,6 +40,12 @@ Das Entpacken einer rar geht folgendermaßen:
 
 `unrar x test.rar`
 
+Entpacken mit einem Password:
+`unrar x 'Pack 4.part001.rar' -pGEHEIMESPASSWORD`
+
+Alle Dateien Entpacken:
+`for f in *.rar; do unrar x $f; done`
+
 ## Backup Script
 
 Mittels diesem Script kann man easy Passwortgeschützte Archive erstellen
