@@ -64,6 +64,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: 'PG7IIPCCQ2',
+        apiKey: '8578142a9f5da89d673d43db84ceac1f',
+        indexName: 'fachinformatiker-azubi',
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
