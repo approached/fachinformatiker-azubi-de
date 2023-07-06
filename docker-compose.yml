@@ -9,6 +9,8 @@ services:
     restart: unless-stopped
     working_dir: /app
     command: npm run serve
+    environment:
+      - NODE_ENV=production
     volumes:
       - ./:/app
     labels:

@@ -8,4 +8,4 @@ Aktivitätsdiagramm wird für die Aktivitäten verwendet. Es stellt einen Ablauf
 
 ## Beispiel
 
-![aktivitätsdiagramm-beispiel.png](./aktivitätsdiagramm-beispiel.png)
+![aktivitätsdiagramm-beispiel.png](./aktivitaetsdiagramm-beispiel.png)

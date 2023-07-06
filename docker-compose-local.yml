@@ -10,10 +10,8 @@ services:
     working_dir: /app
     command: npm run serve
     volumes:
-      - ./:/app
+      - .:/app
     ports:
       - 3000:3000
-      #     environment:
-      # - NODE_ENV=production
-# printenv
-# echo $HOME
+    environment:
+      - NODE_ENV=production
