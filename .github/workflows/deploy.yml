@@ -13,6 +13,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: yarn install
+
+      - name: Build
+        run: yarn run build
+
       - name: Übertrage Dateien
         uses: appleboy/scp-action@v0.1.4
         with:
@@ -20,7 +31,7 @@ jobs:
           username: git
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: .
-          target: /opt/alcodo-com-new
+          target: /opt/fachinformatiker-azubi-de-new
 
       - name: SSH in den Remote-Server
         uses: appleboy/ssh-action@v0.1.10
@@ -29,9 +40,9 @@ jobs:
           username: git
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            rm -rf /opt/alcodo-com
-            mv /opt/alcodo-com-new /opt/alcodo-com
-            cd /opt/alcodo-com
+            rm -rf /opt/fachinformatiker-azubi-de
+            mv /opt/fachinformatiker-azubi-de-new /opt/fachinformatiker-azubi-de
+            cd /opt/fachinformatiker-azubi-de
             docker-compose build
             docker-compose down
             docker-compose up -d

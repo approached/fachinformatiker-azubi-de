@@ -1,21 +1,16 @@
+# https://hub.docker.com/_/node
 ---
 version: "3.8"
 
 services:
-  wikijs:
-    image: requarks/wiki:2
-    container_name: fachinformatiker-azubi.de
-    restart: always
-    environment:
-      - DB_TYPE=postgres
-      - DB_HOST=postgres
-      - DB_PORT=5432
-      - DB_NAME=fachinformatiker
-      - DB_USER=fachinformatiker_user
-      - DB_PASS=2mcVTzL6EXMP6Bt82zZRuBMBAYJ6dTEq
+  fach:
+    image: node:18-alpine
+    container_name: fachinformatiker-azubi-de
+    restart: unless-stopped
+    working_dir: /app
+    command: npm run serve
     volumes:
-      - ./config:/config
-      - ./data:/data
+      - ./:/app
     labels:
       traefik.enable: true
 

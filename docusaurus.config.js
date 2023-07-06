@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'approached', // Usually your GitHub org/user name.
-  projectName: 'site-fachinformatiker-azubi', // Usually your repo name.
+  projectName: 'fachinformatiker-azubi-de', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,7 +42,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/approached/site-fachinformatiker-azubi/tree/main',
+          editUrl: 'https://github.com/approached/fachinformatiker-azubi-de/tree/main',
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -81,7 +81,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/approached/site-fachinformatiker-azubi',
+            href: 'https://github.com/approached/fachinformatiker-azubi-de',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                to: 'https://github.com/approached/site-fachinformatiker-azubi',
+                to: 'https://github.com/approached/fachinformatiker-azubi-de',
               },
             ],
           },
