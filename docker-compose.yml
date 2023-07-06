@@ -28,6 +28,8 @@ services:
       traefik.http.routers.fachinformatiker.rule: Host(`fachinformatiker-azubi.de`)
       traefik.http.routers.fachinformatiker.tls: true
       traefik.http.routers.fachinformatiker.tls.certresolver: lets
+      traefik.http.routers.fachinformatiker.service: fachinformatiker_service
+      traefik.http.services.fachinformatiker_service.loadbalancer.server.port: 3000
     networks:
       - traefik_proxy
 
