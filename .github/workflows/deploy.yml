@@ -1,0 +1,37 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Übertrage Dateien
+        uses: appleboy/scp-action@v0.1.4
+        with:
+          host: 116.203.253.115
+          username: git
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: .
+          target: /opt/alcodo-com-new
+
+      - name: SSH in den Remote-Server
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: 116.203.253.115
+          username: git
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            rm -rf /opt/alcodo-com
+            mv /opt/alcodo-com-new /opt/alcodo-com
+            cd /opt/alcodo-com
+            docker-compose build
+            docker-compose down
+            docker-compose up -d

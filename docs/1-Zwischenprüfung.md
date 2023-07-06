@@ -10,59 +10,59 @@ Die Zwischenprüfung ist für den Ausbildungberuf *Fachinformatiker Anwendungsen
 ## Lerninhalte - Prüfung 2023
 
 -   [Datenbank / SQL](/Datenbank#weiteres)
--   [Klassendiagramm](/Klassendiagramm)
+-   [Klassendiagramm](./Programmierung/Diagramme/Klassendiagramm)
 -   Bezugskostenkalkulation
 -   BSI (Bundesamt für Sicherheit und Informationstechnik)
 -   Lastenheft und Pflichtenheft
 
 ## Lerninhalte - Prüfung 2014
 
--   [Betriebliche Grundfunktion Beschaffung](/Betriebliche_Grundfunktion_Beschaffung)
--   [Matrixorganisation](/Matrixorganisation)
--   [KG - Hierarchieebenen](/KG_-_Hierarchieebenen)
--   [Oligopol](/Oligopol)
--   [Preis- und Konditionenpolitik](/Preis-_und_Konditionenpolitik)
--   [Mindmap](/Mindmap)
--   [Barcode](/Barcode)
--   [Flussdiagramm](/Flussdiagramm)
+-   [Betriebliche Grundfunktion Beschaffung](./BWL/Betriebliche_Grundfunktion_Beschaffung)
+-   [Matrixorganisation](./BWL/Matrixorganisation)
+-   [KG - Hierarchieebenen](./BWL/KG_-_Hierarchieebenen)
+-   [Oligopol](./BWL/Oligopol)
+-   [Preis- und Konditionenpolitik](./BWL/Preis-_und_Konditionenpolitik)
+-   [Mindmap](./Programmierung/Diagramme/Mindmap)
+-   [Barcode](./Hardware/Barcode)
+-   [Flussdiagramm](./Programmierung/Diagramme/Flussdiagramm)
 -   Quick Response Code
 -   UEFI Secure Boot
--   [Struktogramm](/Struktogramm)
+-   [Struktogramm](./Programmierung/Diagramme/Struktogramm)
 -   Strukturierte Programmierung
--   [Datenbank](/Datenbank)
+-   [Datenbank](./Datenbank)
 -   Drop-Down-Felder
--   [Qualitätsmerkmale Software](/qualitaetsmerkmale-software)
+-   [Qualitätsmerkmale Software](./Programmierung/qualitaetsmerkmale-software)
 -   Bottom-Up-Methode
--   [Organigramm](/Organigramm)
--   [Arbeitssicherheit](/Arbeitssicherheit)
+-   [Organigramm](./BWL/Organigramm)
+-   [Arbeitssicherheit](./BWL/Arbeitssicherheit)
 
 ## Lerninhalte - Prüfung 2011
 
--   [Kick-Off-Meeting](/Kick-Off-Meeting)
--   [Diagrammtypen](/Diagrammtypen)
--   [Schreibtischtest](/Schreibtischtest)
--   [Aufbauorganisation](/Aufbauorganisation)
--   [Ablauforganisation](/Ablauforganisation)
--   [Outsourcing](/Outsourcing)
--   [Preispolitik](/Preispolitik)
--   [Markt](/Markt)
--   [Elektrotechnik](/Elektrotechnik)
--   [Thin Client](/Thin_Client)
--   [Drucker](/Drucker)
--   [Programmierparadigma](/Programmierparadigma)
--   [Zahlensystemen](/Zahlensystemen)
--   [Gesellschaftsformen](/Gesellschaftsformen)
--   [JAV](/JAV)
+-   [Kick-Off-Meeting](./Projektmanagement/Kick-Off-Meeting)
+-   [Diagrammtypen](./Programmierung/Diagramme/Diagrammtypen)
+-   [Schreibtischtest](./Programmierung/Softwaretest/Schreibtischtest)
+-   [Aufbauorganisation](./BWL/Aufbauorganisation)
+-   [Ablauforganisation](./BWL/Ablauforganisation)
+-   [Outsourcing](./BWL/Outsourcing)
+-   [Preispolitik](./Marketing/Preispolitik)
+-   [Markt](./BWL/Markt)
+-   [Elektrotechnik](./Elektrotechnik)
+-   [Thin Client](./Hardware/Thin_Client)
+-   [Drucker](./Hardware/Drucker)
+-   [Programmierparadigma](./Programmierung/Programmierparadigma)
+-   [Zahlensystemen](./Programmierung/Zahlensystemen)
+-   [Gesellschaftsformen](./BWL/Gesellschaftsformen)
+-   [JAV](./BWL/JAV)
 
 ## Lerninhalte - Prüfung 2010
 
--   [Management by Delegation](/Management_by_Delegation)
--   [Handlungsvollmachten](/Handlungsvollmachten)
--   [Netzwerktechnik](/Netzwerktechnik)
--   [Tarifvertrag](/Tarifvertrag)
--   [Management by Exception](/Management_by_Exception)
--   [Prozessanalyse](/Prozessanalyse)
--   [Fat Client](/Fat_Client)
+-   [Management by Delegation](./BWL/Management_by_Delegation)
+-   [Handlungsvollmachten](./BWL/Handlungsvollmachten)
+-   [Netzwerktechnik](./Netzwerk//Netzwerktechnik)
+-   [Tarifvertrag](./BWL/Tarifvertrag)
+-   [Management by Exception](./BWL/Management_by_Exception)
+-   [Prozessanalyse](./BWL/Prozessanalyse)
+-   [Fat Client](./Hardware/Fat_Client)
 
 ## Zwischenprüfung Versäumnis
 

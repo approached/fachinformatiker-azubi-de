@@ -1,0 +1,40 @@
+---
+version: "3.8"
+
+services:
+  wikijs:
+    image: requarks/wiki:2
+    container_name: fachinformatiker-azubi.de
+    restart: always
+    environment:
+      - DB_TYPE=postgres
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=fachinformatiker
+      - DB_USER=fachinformatiker_user
+      - DB_PASS=2mcVTzL6EXMP6Bt82zZRuBMBAYJ6dTEq
+    volumes:
+      - ./config:/config
+      - ./data:/data
+    labels:
+      traefik.enable: true
+
+      # www
+      traefik.http.routers.www_fachinformatiker.entrypoints: https
+      traefik.http.routers.www_fachinformatiker.rule: Host(`www.fachinformatiker-azubi.de`)
+      traefik.http.routers.www_fachinformatiker.tls: true
+      traefik.http.routers.www_fachinformatiker.tls.certresolver: lets
+      traefik.http.routers.www_fachinformatiker.middlewares: wwwtohttps
+
+      # non-www
+      traefik.http.routers.fachinformatiker.entrypoints: https
+      traefik.http.routers.fachinformatiker.rule: Host(`fachinformatiker-azubi.de`)
+      traefik.http.routers.fachinformatiker.tls: true
+      traefik.http.routers.fachinformatiker.tls.certresolver: lets
+    networks:
+      - traefik_proxy
+
+networks:
+  traefik_proxy:
+      name: traefik_proxy
+      external: true
