@@ -43,3 +43,7 @@ Jede php Datei mit dem Tool php7cc verarbeiten
 Suche in jeder php datei nach "$my\_variable"
 
 `find . -type f -name "*.php" -exec grep -qi "$my_variable" {} \; -print`
+
+## Zeige anzahl der Dateien an
+
+`find . -type f | wc -l`
