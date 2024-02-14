@@ -2,7 +2,15 @@
 title: Welche Ports sind offen
 ---
 
-# Welche Ports sind offen
+# Ports
+
+Die Ports im Bereich von 0 bis 1023 sind die Systemrelevant. Diese werden für standardmäßige, bekannte Netzwerkdienste verwendet. Sie sind auch eingeschränkt, so dass nur der Superuser in der Lage ist, sich an einen dieser Ports zu binden.
+
+Die nächsten Portbereiche, insbesondere unter 10000, sind in der Regel immer noch Standardports für einige Dienste, aber sie sind nicht eingeschränkt. Einige gängige Beispiele sind 8080 (HTTP-Alternative), 8443 (HTTPS-Alternative) oder 1099 (Java RMI-Registrierung).
+
+Der Portbereich von **32768 bis 65535** kann frei für eigene Anwendungen verwendet werden. Dieser Portbereich ist nicht weit verbreitet.
+
+## Welche Ports sind offen
 
 Wenn man raus finden möchte welche Ports gerade am lauschen sind, kann
 man dies folgt heraus finden.
