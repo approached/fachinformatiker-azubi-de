@@ -6,6 +6,12 @@ title: Proxmox
 
 Proxmox ist eine Virtualisierungsplattform.
 
+## Festplatte weiterleiten
+
+Host:
+ls -l /dev/disk/by-id/
+qm set 302 -scsi1 /dev/disk/by-id/ata-FIKWOT_FS810_4TB_234234242
+
 ## Festplatte vergrößern
 
 Host:
