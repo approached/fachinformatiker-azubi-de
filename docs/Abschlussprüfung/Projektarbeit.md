@@ -7,8 +7,14 @@ title: Projektarbeit
 In der Projektarbeit muss man im Betrieb ein Projekt erstellen. Für das
 Projekt hat man einen bestimmten Zeitraum zur Verfügung:
 
--   Fachinformatiker Anwendungsentwickler (FiAe) - 70 Stunden
--   Fachinformatiker Systemintegration (FiSi) - 35 Stunden
+-   Fachinformatiker Anwendungsentwickler (FiAe) - 80 Stunden
+-   Fachinformatiker Systemintegration (FiSi) - 40 Stunden
+-   Fachinformatiker/in Daten – und Prozessanalyse - 40 Stunden
+-   Fachinformatiker/in Digitale Vernetzung - 40 Stunden
+-   IT‐System‐Elektroniker/in - 40 Stunden
+-   Kaufleute für Digitalisierungsmanagement - 40 Stunden
+-   Kaufleute für IT‐Systemmanagement - 40 Stunden
+
 
 Es ist am sinnvollsten, dass die Anwendungsentwickler Softwareprojekte
 erstellen und die Systemintegratoren eine Integration im von Software
