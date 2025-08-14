@@ -1,7 +1,3 @@
-# https://hub.docker.com/_/node
----
-version: "3.8"
-
 services:
   fach:
     image: node:18-alpine
@@ -13,27 +9,5 @@ services:
       - NODE_ENV=production
     volumes:
       - ./:/app
-    labels:
-      traefik.enable: true
-
-      # www
-      traefik.http.routers.www_fachinformatiker.entrypoints: https
-      traefik.http.routers.www_fachinformatiker.rule: Host(`www.fachinformatiker-azubi.de`)
-      traefik.http.routers.www_fachinformatiker.tls: true
-      traefik.http.routers.www_fachinformatiker.tls.certresolver: lets
-      traefik.http.routers.www_fachinformatiker.middlewares: wwwtohttps
-
-      # non-www
-      traefik.http.routers.fachinformatiker.entrypoints: https
-      traefik.http.routers.fachinformatiker.rule: Host(`fachinformatiker-azubi.de`)
-      traefik.http.routers.fachinformatiker.tls: true
-      traefik.http.routers.fachinformatiker.tls.certresolver: lets
-      traefik.http.routers.fachinformatiker.service: fachinformatiker_service
-      traefik.http.services.fachinformatiker_service.loadbalancer.server.port: 3000
-    networks:
-      - traefik_proxy
-
-networks:
-  traefik_proxy:
-      name: traefik_proxy
-      external: true
+    ports:
+      - 8002:3000

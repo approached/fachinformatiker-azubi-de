@@ -8,6 +8,13 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 $ yarn
 ```
 
+
+or via docker:
+```
+docker run --rm -it -v "$(pwd):/app" -w /app node:18 yarn install
+docker run --rm -it -v "$(pwd):/app" -w /app node:18 yarn build
+```
+
 ### Local Development
 
 ```
